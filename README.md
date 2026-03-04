@@ -7,6 +7,9 @@ LinkClaw is a desktop graph workspace that combines interactive network visualiz
 ![LinkClaw](linkClaw.png)
 
 ---
+## Screenshot
+![screenshot](screenshot.png)
+---
 
 ## What it does
 
